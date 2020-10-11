@@ -38,17 +38,17 @@ int ImperialMarchMelodie[] =
 {
   //NOTE_A3, NOTE_A3, NOTE_A3, NOTE_F3, NOTE_C4, NOTE_A3, NOTE_F3, NOTE_C4, NOTE_A3, Pause,
   //NOTE_E4, NOTE_E4, NOTE_E4, NOTE_F4, NOTE_C4, NOTE_GS3, NOTE_F3, NOTE_C4, NOTE_A3,Pause,
- // NOTE_A4, NOTE_A3, NOTE_A4, NOTE_GS4, NOTE_G4, NOTE_FS4, NOTE_F4, NOTE_FS4, NOTE_AS3, NOTE_DS4,
+  NOTE_A4, NOTE_A3, NOTE_A4, NOTE_GS4, NOTE_G4, NOTE_FS4, NOTE_F4, NOTE_FS4, NOTE_AS3, NOTE_DS4,
   NOTE_D4, NOTE_CS4, NOTE_C4, NOTE_B3, NOTE_C4, NOTE_F3, NOTE_GS3, NOTE_F3, NOTE_GS3, NOTE_C4, NOTE_A3, NOTE_C4, NOTE_E4, END
   
 };
 
 int ImperialMarchNoteDurations[] = 
 {
-  //8, 8, 8, 6, 2, 8, 6, 2, 8, 8,
-  //8, 8, 8, 6, 2, 8, 6, 2, 8, 8,
-  //8, 8, 8, 6, 2, 2, 2, 8, 4, 6, 6,
-  6, 2, 2, 2, 4, 6, 6, 4, 6, 6, 4, 6, 6
+  8, 8, 8, 6, 2, 8, 6, 2, 8, 8,
+  8, 8, 8, 6, 2, 8, 6, 2, 8, 8,
+  8, 8, 8, 6, 2, 2, 2, 8, 4, 8, 8,
+  8, 2, 2, 8, 4, 8, 6, 4, 8, 8, 2, 6, 1
 };
 
 int speed=99;
