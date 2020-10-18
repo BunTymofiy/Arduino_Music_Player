@@ -87,29 +87,26 @@ int MarioMainThemeNoteDurations[] =
 };
 int CantinaBandMelody[] = 
 {
-    NOTE_A3, Pause, NOTE_D4, Pause, NOTE_A3, Pause, NOTE_D4, Pause, NOTE_A3, NOTE_D4, NOTE_A3, NOTE_GS3, NOTE_A3, NOTE_A3, NOTE_GS3, NOTE_A3, NOTE_G3,  NOTE_F3,  NOTE_G3, NOTE_FS3, NOTE_F3, NOTE_D3, 
-    NOTE_A3, Pause, NOTE_D4, Pause, NOTE_A3, Pause, NOTE_D4, Pause, NOTE_A3, NOTE_D4, NOTE_A3, NOTE_G3,  NOTE_A3, NOTE_G3, NOTE_G3, Pause,  NOTE_G3, NOTE_FS3, NOTE_G3,  NOTE_C4, NOTE_AS3, NOTE_A3, NOTE_G3, Pause,
-    NOTE_A3, Pause, NOTE_D4, Pause, NOTE_A3, Pause, NOTE_D4, Pause, NOTE_A3, NOTE_D4, Pause,   NOTE_A3,  NOTE_G3, NOTE_A3, NOTE_C4,  NOTE_C4, NOTE_A3, NOTE_G3,  NOTE_F3, NOTE_D3,  NOTE_D3,  NOTE_F3, NOTE_A3,
-    NOTE_C4, NOTE_E4, NOTE_D4, Pause,  NOTE_GS3, NOTE_A3, Pause,
-    NOTE_A3,  Pause,    NOTE_F3, NOTE_A3, Pause,   NOTE_A3, Pause,   NOTE_F3,  NOTE_A3,  Pause,   NOTE_A3,  Pause,   NOTE_F3,  NOTE_GS3, NOTE_A3, NOTE_F3,  NOTE_D3, Pause,
-    NOTE_A3,  Pause,    NOTE_F3, NOTE_A3, Pause,   NOTE_A3, Pause,   NOTE_F3,  NOTE_A3,  Pause,   NOTE_A3,  Pause,   NOTE_F3,  NOTE_GS3, NOTE_A3, Pause, NOTE_G3,  NOTE_C3, Pause,
-    NOTE_A3,  Pause,    NOTE_F3, NOTE_A3, Pause,   NOTE_A3, Pause,   NOTE_F3,  NOTE_A3,  Pause,   NOTE_A3,  Pause,   NOTE_F3,  NOTE_GS3, NOTE_A3, NOTE_F3,  NOTE_D3, Pause,
-    NOTE_AS2, NOTE_D3,  NOTE_F3, Pause,   NOTE_B2, NOTE_D3, NOTE_F3, Pause,    NOTE_GS4, NOTE_A4, NOTE_F4,  Pause,   NOTE_D3, NOTE_G3,  NOTE_AS3, NOTE_D4, NOTE_GS4, NOTE_A4, NOTE_F4,
-    NOTE_F3,  END
+    NOTE_A3, Pause,   NOTE_D4, Pause,   NOTE_A3,  Pause,   NOTE_D4, Pause,    NOTE_A3,  NOTE_D4, NOTE_A3,  NOTE_GS3, NOTE_A3, NOTE_A3,  NOTE_GS3, NOTE_A3, NOTE_G3, NOTE_F3,  NOTE_G3, NOTE_FS3, NOTE_F3,  NOTE_D3, 
+    NOTE_A3, Pause,   NOTE_D4, Pause,   NOTE_A3,  Pause,   NOTE_D4, Pause,    NOTE_A3,  NOTE_D4, NOTE_A3,  NOTE_G3,  NOTE_A3, NOTE_G3,  NOTE_G3,  Pause,   NOTE_G3, NOTE_FS3, NOTE_G3, NOTE_C4,  NOTE_AS3, NOTE_A3, NOTE_G3, Pause,
+    NOTE_A3, Pause,   NOTE_D4, Pause,   NOTE_A3,  Pause,   NOTE_D4, Pause,    NOTE_A3,  NOTE_D4, Pause,    NOTE_A3,  NOTE_G3, NOTE_A3,  NOTE_C4,  NOTE_C4, NOTE_A3, NOTE_G3,  NOTE_F3, NOTE_D3,  NOTE_D3,  NOTE_F3, NOTE_A3,
+    NOTE_C4, NOTE_E4, NOTE_D4, Pause,   NOTE_GS3, NOTE_A3, Pause,
+    NOTE_A3, Pause,   NOTE_F3, NOTE_A3, Pause,    NOTE_A3, Pause,   NOTE_F3,  NOTE_A3,  Pause,   NOTE_A3,  Pause,   NOTE_F3,  NOTE_GS3, NOTE_A3,  NOTE_F3, NOTE_D3, Pause,
+    NOTE_A3, Pause,   NOTE_F3, NOTE_A3, Pause,    NOTE_A3, Pause,   NOTE_F3,  NOTE_A3,  Pause,   NOTE_A3,  Pause,   NOTE_F3,  NOTE_GS3, NOTE_A3,  Pause,   NOTE_G3,  NOTE_C3, Pause,
+    NOTE_A3, Pause,   NOTE_F3, NOTE_A3, Pause,    NOTE_A3, Pause,   NOTE_F3,  NOTE_A3,  Pause,   NOTE_A3,  Pause,   NOTE_F3,  NOTE_GS3, NOTE_A3,  NOTE_F3, NOTE_D3, Pause,
+    NOTE_AS2,NOTE_D3, NOTE_F3, Pause,   NOTE_B2,  NOTE_D3, NOTE_F3, Pause,    NOTE_GS4, NOTE_A4, NOTE_F4,  Pause,   NOTE_D3,  NOTE_G3,  NOTE_AS3, NOTE_D4, NOTE_GS4, NOTE_A4, NOTE_F4,
+    NOTE_F3, END
     
 };
 int CantinaBandNoteDurations [] =
 {
-   2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4 ,2 ,4, 2, 2,2,4,2,2,2,6,8,
-   2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 2, 4, 2, 4, 2, 2,4,2,4,4,4,2,
-   2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2 ,4, 4, 6, 2, 4, 6, 10, 8 ,8 ,8,8, 4, 4, 2 ,2 ,4 ,20,
-   2,2,2,2,8,2,2,2,2,8,2,2,2,2,2,4,6,8,4,
-   2,2,2,2,8,2,2,2,2,8,2,2,2,2,2,4,6,10,4,
-   2,2,2,2,8,2,2,2,2,8,2,2,2,2,2,4,6,10,2,
-   2,2,2,4,2,2,2,4,2,4,4,6,2,2,2,2,2,4,8,2,1
-   
-   
-  
+   2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4 ,2 ,4, 2, 2, 2, 4, 2, 2, 2, 6, 8,
+   2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 2, 4, 2, 4, 2, 2, 4, 2, 4, 4, 4, 2,
+   2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2, 4, 4, 6, 2, 4, 6, 10,8, 8, 8, 8, 4, 4, 2 ,2 ,4 ,20,
+   2, 2, 2, 2, 8, 2, 2, 2, 2, 8, 2, 2, 2, 2, 2, 4, 6, 8, 4,
+   2, 2, 2, 2, 8, 2, 2, 2, 2, 8, 2, 2, 2, 2, 2, 4, 6, 10, 4,
+   2, 2, 2, 2, 8, 2, 2, 2, 2, 8, 2, 2, 2, 2, 2, 4, 6, 10, 2,
+   2, 2, 2, 4, 2, 2, 2, 4, 2, 4, 4, 6, 2, 2, 2, 2, 2, 4, 8, 2, 1  
 };
 /////////////////////////
 
